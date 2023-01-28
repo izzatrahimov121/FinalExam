@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\Core\\Core.csproj": {}
+    "C:\\Users\\Izzet\\OneDrive\\Desktop\\FinalExam\\Bilet9\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\Core\\Core.csproj": {
+    "C:\\Users\\Izzet\\OneDrive\\Desktop\\FinalExam\\Bilet9\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Izzet\\OneDrive\\Desktop\\FinalExam\\Bilet9\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\FinalExam\\Bilet9\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Izzet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\FinalExam\\Bilet9\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Izzet\\AppData\\Roaming\\NuGet\\NuGet.Config",

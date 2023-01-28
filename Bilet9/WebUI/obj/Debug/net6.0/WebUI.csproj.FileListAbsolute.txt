@@ -277,3 +277,14 @@ C:\Users\Izzet\OneDrive\Desktop\Yeni klasör\Bilet9\WebUI\bin\Debug\net6.0\runti
 C:\Users\Izzet\OneDrive\Desktop\Yeni klasör\Bilet9\WebUI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Izzet\OneDrive\Desktop\Yeni klasör\Bilet9\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cache
 C:\Users\Izzet\OneDrive\Desktop\Yeni klasör\Bilet9\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cs
+C:\Users\Izzet\OneDrive\Desktop\FinalExam\Bilet9\WebUI\obj\Debug\net6.0\WebUI.csproj.AssemblyReference.cache
+C:\Users\Izzet\OneDrive\Desktop\FinalExam\Bilet9\WebUI\obj\Debug\net6.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Izzet\OneDrive\Desktop\FinalExam\Bilet9\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\Izzet\OneDrive\Desktop\FinalExam\Bilet9\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfo.cs
+C:\Users\Izzet\OneDrive\Desktop\FinalExam\Bilet9\WebUI\obj\Debug\net6.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Izzet\OneDrive\Desktop\FinalExam\Bilet9\WebUI\obj\Debug\net6.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Izzet\OneDrive\Desktop\FinalExam\Bilet9\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cache
+C:\Users\Izzet\OneDrive\Desktop\FinalExam\Bilet9\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cs
+C:\Users\Izzet\OneDrive\Desktop\FinalExam\Bilet9\WebUI\obj\Debug\net6.0\WebUI.dll
+C:\Users\Izzet\OneDrive\Desktop\FinalExam\Bilet9\WebUI\obj\Debug\net6.0\refint\WebUI.dll
+C:\Users\Izzet\OneDrive\Desktop\FinalExam\Bilet9\WebUI\obj\Debug\net6.0\WebUI.pdb

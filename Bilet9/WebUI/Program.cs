@@ -4,6 +4,7 @@ using DataAccess.Interfaces;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System.Configuration;
+using WebUI.Utilites;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -50,9 +51,8 @@ builder.Services.ConfigureApplicationCookie(opt =>
 //services.AddSingleton(emailConfig);
 //services.AddScoped<IEmailSender, EmailSender>();
 
-
-
-
+//Constants.EmailAddress = builder.Configuration["Gmail:MailAddress"];
+//Constants.Password = builder.Configuration["Gmail:Password"];
 
 
 builder.Services.AddScoped< IIntroductionRepository, IntroductionRepository>();

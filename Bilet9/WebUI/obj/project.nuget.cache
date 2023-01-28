@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mXJz7rCpGpM272b5OPePVVHPe6BnNxddqliv3BDX6d+AzJ4Jzfnesp69unYUBTfBIWG3Bdl8Krsc55kY3/hNaQ==",
+  "dgSpecHash": "lrUKAu08iChxkISyEPjFbbb8Kv9HQGeITgnIWCZ+u4bboDrBarKfil1RuqNJlNdsfgowSb21dGEf3hqxqMlXsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\WebUI.csproj",
+  "projectFilePath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\FinalExam\\Bilet9\\WebUI\\WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Izzet\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Izzet\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
