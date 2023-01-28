@@ -1,0 +1,49 @@
+﻿@model CretedViewModel
+@{
+	ViewData["Title"] = "Creted";
+	Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<div class="card col-5">
+	<div class="card-body">
+		<h4 class="card-title">Create EmployeeVM</h4>
+		<form class="forms-sample" method="post" enctype="multipart/form-data">
+
+			<div class="form-group">
+				<label>Title</label>
+				<input asp-for="Title" class="form-control" placeholder="Title">
+				<span class="text-danger" asp-validation-for="Title"></span>
+			</div>
+
+			<div class="form-group">
+				<label>Description</label>
+				<input asp-for="Description" class="form-control" placeholder="Description">
+				<span class="text-danger" asp-validation-for="Description"></span>
+			</div>
+
+			<div class="form-group">
+				<label>Icon</label><br />
+				<select asp-for="Icon" placeholder="Icon">
+					<option value="" >select icon</option>
+					<option value="fa-bicycle">Bicycle</option>
+					<option value="fa-city">City</option>
+					<option value="fa-bus">Bus</option>
+				</select>
+				@*<input type="" asp-for="Icon" class="form-control" placeholder="Title">*@
+				<span class="text-danger" asp-validation-for="Icon"></span>
+			</div>
+
+			@*<div class="form-group">
+				<label>Description</label>
+				<input asp-for="Description" class="form-control" placeholder="Description">
+				<span class="text-danger" asp-validation-for="Description"></span>
+			</div>*@
+
+			<button type="submit" class="btn btn-primary mr-2">Submit</button>
+			<button asp-action="Index" class="btn btn-light">Cancel</button>
+
+		</form>
+	</div>
+</div>
+
+
+

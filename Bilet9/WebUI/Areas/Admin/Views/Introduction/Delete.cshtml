@@ -1,0 +1,27 @@
+﻿@model Introduction
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+<link rel="stylesheet" href="~/fontawesome-5.5/css/all.min.css" />
+<link rel="stylesheet" href="~/slick/slick.css">
+<link rel="stylesheet" href="~/slick/slick-theme.css">
+<link rel="stylesheet" href="~/css/magnific-popup.css">
+<link rel="stylesheet" href="~/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/templatemo-style.css" />
+<div class="col-6 mt-3">
+	<p></p>
+
+	<i class="fas fa-4x @Model.Icon text-center tm-icon"></i><br /><br />
+	<h3>Title: @Model.Title</h3>
+	<h4>Description:@Model.Description </h4><br />
+
+	<div class="mt-3">
+		<form method="post" class="formdelete">
+			<button class="btn btn-danger deleteButton">Delete</button>
+		</form> 
+	</div>
+	<a class="btn btn-info" asp-action="Index">Back</a>
+</div>
+

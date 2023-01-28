@@ -1,0 +1,136 @@
+﻿
+@model LoginViewModel
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Login</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="~/assets-login/images/icons/favicon.ico" />
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/assets-login/vendor/bootstrap/css/bootstrap.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/assets-login/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/assets-login/fonts/iconic/css/material-design-iconic-font.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/assets-login/vendor/animate/animate.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/assets-login/vendor/css-hamburgers/hamburgers.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/assets-login/vendor/animsition/css/animsition.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/assets-login/vendor/select2/select2.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/assets-login/vendor/daterangepicker/daterangepicker.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/assets-login/css/util.css">
+	<link rel="stylesheet" type="text/css" href="~/assets-login/css/main.css">
+	<!--===============================================================================================-->
+</head>
+<body>
+
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100">
+				<form class="login100-form validate-form" method="post">
+					<span class="login100-form-title p-b-20">
+						Welcome
+					</span>
+
+					<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+					<div class="form-group">
+						<label for="exampleInputEmail">Username or Email</label>
+						<div class="input-group">
+							<div class="input-group-prepend bg-transparent">
+								<span class="input-group-text bg-transparent border-right-0">
+									<i class="mdi mdi-account-outline text-primary"></i>
+								</span>
+							</div>
+							<input asp-for="UsernameOrEmail" class="form-control form-control-lg border-left-1" placeholder="Username Or Email">
+						</div>
+						<span asp-validation-for="UsernameOrEmail" class="text-danger"></span>
+					</div>
+
+					<div class="form-group">
+						<label for="exampleInputEmail">Password</label>
+						<div class="input-group">
+							<div class="input-group-prepend bg-transparent">
+								<span class="input-group-text bg-transparent border-right-0">
+									<i class="mdi mdi-account-outline text-primary"></i>
+								</span>
+							</div>
+							<input asp-for="Password" class="form-control form-control-lg border-left-1" placeholder="Password">
+						</div>
+						<span asp-validation-for="Password" class="text-danger"></span>
+					</div>
+
+					<div class="my-2 d-flex justify-content-between align-items-center">
+						<div class="form-check">
+							<label class="form-check-label text-muted">
+								<input asp-for="RememberMe" type="checkbox" class="form-check-input">
+								Remember Me
+							</label>
+						</div>
+					</div>
+
+					<div class="container-login100-form-btn">
+						<div class="wrap-login100-form-btn">
+							<div class="login100-form-bgbtn"></div>
+							<button type="submit" class="login100-form-btn">
+								Login
+							</button>
+						</div>
+					</div>
+
+					<div class="text-center p-t-15">
+						<span class="txt1">
+							Forgot your password?
+						</span>
+						<a class="txt2" asp-action="ForgotPassword">
+							Update password
+						</a>
+					</div>
+
+					<div class="text-center p-t-10">
+						<span class="txt1">
+							Dont have an account?
+						</span>
+						<a class="txt2" asp-action="Register">
+							Register
+						</a>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="dropDownSelect1"></div>
+
+	<!--===============================================================================================-->
+	<script src="~/assets-login/vendor/jquery/jquery-3.2.1.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="~/assets-login/vendor/animsition/js/animsition.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="~/assets-login/vendor/bootstrap/js/popper.js"></script>
+	<script src="~/assets-login/vendor/bootstrap/js/bootstrap.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="~/assets-login/vendor/select2/select2.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="~/assets-login/vendor/daterangepicker/moment.min.js"></script>
+	<script src="~/assets-login/vendor/daterangepicker/daterangepicker.js"></script>
+	<!--===============================================================================================-->
+	<script src="~/assets-login/vendor/countdowntime/countdowntime.js"></script>
+	<!--===============================================================================================-->
+	<script src="~/assets-login/js/main.js"></script>
+
+</body>
+</html>

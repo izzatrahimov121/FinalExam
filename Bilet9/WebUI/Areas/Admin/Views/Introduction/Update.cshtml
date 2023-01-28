@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "Update";
+}
+@model	 UpdateViewModel
+<h1>Update</h1>
+<div class="col-6">
+	<div class="card">
+		<div class="card-body">
+			<h4 class="card-title">Update Shippind</h4>
+			<form class="forms-sample formupdate" method="post" enctype="multipart/form-data">
+
+				@*<div class="form-group">
+					<label>Image</label>
+					<img style="height:80px" src="~/assets/img/team/@Model.ImagePath" />
+					<input asp-for="Image" class="form-control" placeholder="Image">
+					<span class="text-danger" asp-validation-for="Image"></span>
+				</div>*@
+
+				<div class="form-group">
+					<label>Title</label>
+					<input asp-for="Title" class="form-control" placeholder="Title">
+					<span class="text-danger" asp-validation-for="Title"></span>
+				</div>
+
+				<div class="form-group">
+					<label>Description</label>
+					<input asp-for="Description" class="form-control" placeholder="Description">
+					<span class="text-danger" asp-validation-for="Description"></span>
+				</div>
+
+				<div class="form-group">
+					<label>Icon</label><br />
+					<select asp-for="Icon" placeholder="Icon">
+						<option value="">select icon</option>
+						<option value="fa-bicycle">Bicycle</option>
+						<option value="fa-city">City</option>
+						<option value="fa-bus">Bus</option>
+					</select>
+					@*<input type="" asp-for="Icon" class="form-control" placeholder="Title">*@
+					<span class="text-danger" asp-validation-for="Icon"></span>
+				</div>
+
+				<button class="btn btn-primary mr-2 updatebtn">Submit</button>
+				<a asp-action="Index" class="btn btn-light">Cancel</a>
+
+			</form>
+		</div>
+	</div>
+</div>
+
+
+

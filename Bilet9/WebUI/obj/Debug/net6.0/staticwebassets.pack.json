@@ -1,0 +1,1101 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets-login\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\css\\util.css",
+      "PackagePath": "staticwebassets\\assets-login\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets-login\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets-login\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets-login\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\assets_admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets_admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\documentation\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\documentation\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\documentation\\documentation.html",
+      "PackagePath": "staticwebassets\\assets_admin\\documentation\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets_admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets_admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\assets_admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\charts\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\charts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\forms\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\forms\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\icons\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\samples\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\samples\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\tables\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\tables\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\ui-features\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\ui-features\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\assets_admin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\sweetalert\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\assets_admin\\sweetalert\\sweetalert2.all.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\sweetalert\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\assets_admin\\sweetalert\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\sweetalert\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\assets_admin\\sweetalert\\sweetalert2.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\sweetalert\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\assets_admin\\sweetalert\\sweetalert2.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\sweetalert\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\assets_admin\\sweetalert\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\sweetalert\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\assets_admin\\sweetalert\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\assets_admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets_admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\css\\templatemo-style.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\gallery-img-01.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-img-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\gallery-img-02.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-img-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\gallery-img-03.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-img-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\gallery-img-04.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-img-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\gallery-img-05.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-img-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\gallery-img-06.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-img-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\gallery-tn-01.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-tn-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\gallery-tn-02.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-tn-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\gallery-tn-03.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-tn-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\gallery-tn-04.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-tn-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\gallery-tn-05.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-tn-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\gallery-tn-06.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-tn-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\the-town-01.jpg",
+      "PackagePath": "staticwebassets\\img\\the-town-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\the-town-bg-01.jpg",
+      "PackagePath": "staticwebassets\\img\\the-town-bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\img\\the-town-bg-02.jpg",
+      "PackagePath": "staticwebassets\\img\\the-town-bg-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\js\\jquery-1.9.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.9.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\js\\jquery.singlePageNav.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.singlePageNav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\magnific-popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\magnific-popup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Izzet\\OneDrive\\Desktop\\Yeni klasör\\Bilet9\\WebUI\\wwwroot\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\slick\\slick.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebUI.props",
+      "PackagePath": "build\\WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebUI.props",
+      "PackagePath": "buildTransitive\\WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
